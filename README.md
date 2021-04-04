@@ -26,7 +26,8 @@
        
        
        
-       # 4. Lista de componentes
+
+# 4. Lista de componentes
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/168898803_279351633630880_1263561550144821975_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=5U1QO4ifvMUAX-ItNhD&_nc_ht=scontent.fuio1-1.fna&oh=77fee0d204c8445d4a5f0afab8205870&oe=609020CC)
 #5. Explicación
 
