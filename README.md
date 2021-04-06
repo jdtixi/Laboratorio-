@@ -70,11 +70,16 @@ Entonces de aquí recalcamos dos configuraciones del Amplificador Operacional im
 *** Configuración del Amplificador Operacional en lazo abierto ***
 
 
+
+_____________________________________________________________________________________     
 # 4. Lista de componentes
+
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/168898803_279351633630880_1263561550144821975_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=5U1QO4ifvMUAX-ItNhD&_nc_ht=scontent.fuio1-1.fna&oh=77fee0d204c8445d4a5f0afab8205870&oe=609020CC)
 
 
+_____________________________________________________________________________________     
 # 5. Explicación
+
 En esta práctica nos centramos en el armado de circuitos con amplificadores operacionales, los cuales se diseñan de tal forma que, la llamada resistencia de feedback sea mayor que la resistencia o las resistencias de estradas, caso contrario tendríamos un atenuador. 
 
 Siempre es bueno saber cómo se deben colocar los elementos en la Protoboard, por los que se incluye su armado respectivo.
@@ -168,9 +173,12 @@ Además de los valores de la resistencia de salida, que en este caso es 75 Ohm, 
 
 
 
+_____________________________________________________________________________________     
 
+# 8. Conclusiones  
 
+_____________________________________________________________________________________     
 
-
+# 9. Bibliografía 
        
        
