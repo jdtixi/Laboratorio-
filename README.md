@@ -186,16 +186,33 @@ En común todos están adaptados para que la señal de entrada se amplíe y se i
 ### Preguntas
 
 
-Anote parámetros técnicos importantes de un amplificador operacional que deben será tomados en cuenta al momento de utilizarlos en un proyecto.
+- Anote parámetros técnicos importantes de un amplificador operacional que deben será tomados en cuenta al momento de utilizarlos en un proyecto.
+
+
+Algo importante para el manejo correcto del amplificador operacional es la revisión previa de la conexión de los canales estando encendidos y que proporcionen la señal, teniendo especial cuidado en las alimentaciones positivas y negativas pues deben estar en los pines correspondientes para cada caso. 
+Además, debemos verificar que el circuito se encuentre correctamente expresado en el simulador que se este ocupando para la práctica, esto con el fin de no tener inconvenientes al momento de interpretar los resultados en cada uno de los apartados. 
 
 
 
+- Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
 
-Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+-	No inversor
+-	
+Configuración similar al amplificador operacional inversor.
+La tensión de entrada se aplica directamente al pin no inversor. 
+Se conecta a tierra el extremo del circuito.
 
+-	Inversor
+-	
+La señal de entrada se aplica al pin invertido a través de un resistor. 
+El pin de carga positiva se conecta a tierra.
+La salida se alimenta de regreso a la entrada negativa o negativa mediante un resistor.
 
+-	De Tensión
 
+No requiere componente externo.
+Salida de tensión igual a la entrada de tensión.
 
 
 Cada elemento de un circuito eléctrico viene acompañado de si hoja técnica o datasheet, en el que encontramos todos los datos técnicos del elemento que vamos a usar, en este caso del OpAmp LM 741 tenemos:
