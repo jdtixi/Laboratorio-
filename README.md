@@ -50,7 +50,8 @@ El surgimiento del Amplificador Operacional también conocido como Op-Amp, debid
 
 Además, sabemos que tiene una entrada positiva y una negativa, por lo que, si la entrada positiva es superior en voltaje a la entrada negativa, la salida tiene a irse al voltaje de saturación. Un Amplificador Operacional puede esta alimentado por fuentes diferentes es decir uno de voltaje negativo y uno positivo o mediante fuentes simples como voltaje positivo y GND. Incluso es conveniente recordar que un Amplificador Operacional contiene diversas configuraciones, tal es el caso de: amplificador, no inversor, inversor y sumador. 
 
-(PRIMERA IMAGEN)
+
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167626247_3785715234858311_7026194099868496837_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=_1J2T8O1pmcAX-nBQzK&_nc_ht=scontent.fuio1-1.fna&oh=b698bc58cf32d8ec449577dbdd479cc3&oe=6093EE96)
 
 En otras palabras, también podemos decir que los amplificadores operacionales son conocidos como dispositivos lineales de alta ganancia compactos activos ocupados para suministrar la función de transferencia deseada. En el caso de los amplificadores operacionales (A.O.) se componen de un circuito electrónico con una salida, que se obtienen mediante la diferencia de las dos entradas que tiene multiplicadas por el factor de ganancia en teoría la formula seria: 
 
@@ -61,15 +62,16 @@ Una de las características de un Amplificador Operacional se expresa debido a s
 
 ### *** Etapas de los Amplificadores Operacionales ***
 
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167583384_3785715284858306_6906039742072779916_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=730e14&_nc_ohc=GUVIt9qnuyMAX_se0l-&_nc_ht=scontent.fuio1-1.fna&oh=6a6f36ab13946abb9ab6c841845d7190&oe=6093F416)
 
-(SEGUNDA IMAGEN)
 
 Entonces de aquí recalcamos dos configuraciones del Amplificador Operacional importantes: Lazo Abierto y Lazo Cerrado.
 
 
 ### *** Configuración del Amplificador Operacional en lazo abierto ***
 
-(TERCERA IMAGEN)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/168824289_3785715221524979_8338283501136417424_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=nt-65ETMhzcAX83PIPd&_nc_ht=scontent.fuio1-1.fna&oh=391e3dcb0c70d089f7edf508905c7451&oe=609324F9)
+
 
 Para entender mejor la ganancia del amplificador en lazo abierto debemos tomar en cuenta esta fórmula: 
 
@@ -80,7 +82,8 @@ También se debe tomar en cuenta que, al aplicar una señal de entrada en nuestr
 
 ### *** Configuración del Amplificador Operacional en lazo abierto ***
 
-(CUARTA IMAGEN)
+![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/167677944_3785715244858310_795308775659733781_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_ohc=P3KrqT0l9dUAX-pJZH2&_nc_ht=scontent.fuio1-1.fna&oh=97add4f857d9a6d92061b958a9a705a0&oe=60924251)
+
 
 Para entender la configuración del amplificador operacional en lazo cerrado decimos que mediante su uso se reduce notablemente la ganancia del dispositivo porque estaba determinada por la red de realimentación y no por las características que mantiene el dispositivo en cuestión. 
 
