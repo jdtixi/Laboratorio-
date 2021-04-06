@@ -73,7 +73,7 @@ Entonces de aquí recalcamos dos configuraciones del Amplificador Operacional im
 
 Para entender mejor la ganancia del amplificador en lazo abierto debemos tomar en cuenta esta fórmula: 
 
-                                                                                       Av = Vs / Ve
+                                                                             Av = Vs / Ve
 
 También se debe tomar en cuenta que, al aplicar una señal de entrada en nuestro circuito eléctrico, entonces se considera como ganancia el cociente entre la tensión de la salida (Vs) y la entrada (Ve) que mantiene el amplificador operacional cuando no existe ningún lazo de realimentación entre las dos entradas y la salida. Además, es fundamental entender que el amplificador operacional ideal, mantiene ganancia infinita. Sabiendo que este tipo de configuración se utiliza en comparadores, donde deseamos saber cuál de las entradas contienen mayor tensión. Incluso conocemos que la ganancia en lazo abierto es la salida máxima que se puede obtener del amplificador operacional.
 
@@ -85,7 +85,7 @@ También se debe tomar en cuenta que, al aplicar una señal de entrada en nuestr
 Para entender la configuración del amplificador operacional en lazo cerrado decimos que mediante su uso se reduce notablemente la ganancia del dispositivo porque estaba determinada por la red de realimentación y no por las características que mantiene el dispositivo en cuestión. 
 
 La ganancia se obtiene mediante la siguiente fórmula:  
-                                                                                        Av = - Vo/Vin
+                                                                              Av = - Vo/Vin
                                                                                        
 Sabiendo que el signo negativo indica que la señal en la salida va ha ser opuesta a la que se encuentra en la entrada, entonces decimos que se comprueba que la señal positiva que se aplica a una entrada genera una tensión negativa en la salida y viceversa. 
 
