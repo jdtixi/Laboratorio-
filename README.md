@@ -197,19 +197,19 @@ Además, debemos verificar que el circuito se encuentre correctamente expresado 
 - Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
 
 
--	No inversor
+No inversor
 
 Configuración similar al amplificador operacional inversor.
 La tensión de entrada se aplica directamente al pin no inversor. 
 Se conecta a tierra el extremo del circuito.
 
--	Inversor
+Inversor
 
 La señal de entrada se aplica al pin invertido a través de un resistor. 
 El pin de carga positiva se conecta a tierra.
 La salida se alimenta de regreso a la entrada negativa o negativa mediante un resistor.
 
--	De Tensión
+De Tensión
 
 No requiere componente externo.
 Salida de tensión igual a la entrada de tensión.
