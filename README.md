@@ -44,7 +44,7 @@ Al llegar al desarrollo de los últimos temas del syllabus de este semestre, ten
 Es importante que antes de continuar con la práctica en el simulador se pueda analizar y determinar la relación entre las señales de entrada y salida en cada uno de los circuitos que se indican en  la guía, lo cual implica reducir el tiempo de realización del proceso, incluso disminuir los recursos usados para el hallazgo de los resultados expuestos en el apartado de cálculos, también es importante demostrar simultáneamente las señales de entrada y salida en un osciloscopio, capturando las formas de onda para formular el análisis concluyente de las medidas tomadas con el simulador mejorando la comprensión del mismo. 
 
 
-*** Amplificador Operacional  ***
+### *** Amplificador Operacional  ***
 
 El surgimiento del Amplificador Operacional también conocido como Op-Amp, debido a sus siglas en inglés (Operational Amplifier) data alrededor del año 1964, de manos del ingeniero electrónico estadounidense Robert John Widlar, quien también es un diseñador de circuitos integrados lineales (CI). Podemos nombrar al amplificador operacional como un dispositivo de alta ganancia acoplado en corriente continua que mantiene dos entradas y una salida, tal como mencionamos anteriormente, así, sabemos que generalmente la salida del dispositivo como tal es mil veces mayor a la diferencia de potencia entre las entradas. 
 
@@ -59,7 +59,7 @@ En otras palabras, también podemos decir que los amplificadores operacionales s
 Una de las características de un Amplificador Operacional se expresa debido a su preparación en componente más genéricos, mostrado de modo que se puede acceder a los puntos digitales vitales donde se pueden interconectar los componentes externos que permiten al usuario cambiar la respuesta y transferencia del dispositivo. 
 
 
-*** Etapas de los Amplificadores Operacionales ***
+### *** Etapas de los Amplificadores Operacionales ***
 
 
 (SEGUNDA IMAGEN)
@@ -67,8 +67,25 @@ Una de las características de un Amplificador Operacional se expresa debido a s
 Entonces de aquí recalcamos dos configuraciones del Amplificador Operacional importantes: Lazo Abierto y Lazo Cerrado.
 
 
-*** Configuración del Amplificador Operacional en lazo abierto ***
+### *** Configuración del Amplificador Operacional en lazo abierto ***
 
+(TERCERA IMAGEN)
+
+Para entender mejor la ganancia del amplificador en lazo abierto debemos tomar en cuenta esta fórmula: 
+Av = Vs / Ve
+
+También se debe tomar en cuenta que, al aplicar una señal de entrada en nuestro circuito eléctrico, entonces se considera como ganancia el cociente entre la tensión de la salida (Vs) y la entrada (Ve) que mantiene el amplificador operacional cuando no existe ningún lazo de realimentación entre las dos entradas y la salida. Además, es fundamental entender que el amplificador operacional ideal, mantiene ganancia infinita. Sabiendo que este tipo de configuración se utiliza en comparadores, donde deseamos saber cuál de las entradas contienen mayor tensión. Incluso conocemos que la ganancia en lazo abierto es la salida máxima que se puede obtener del amplificador operacional.
+
+
+### *** Configuración del Amplificador Operacional en lazo abierto ***
+
+(CUARTA IMAGEN)
+
+Para entender la configuración del amplificador operacional en lazo cerrado decimos que mediante su uso se reduce notablemente la ganancia del dispositivo porque estaba determinada por la red de realimentación y no por las características que mantiene el dispositivo en cuestión. 
+
+La ganancia se obtiene mediante la siguiente fórmula:  
+                                                                                       Av = - Vo/Vin
+Sabiendo que el signo negativo indica que la señal en la salida va ha ser opuesta a la que se encuentra en la entrada, entonces decimos que se comprueba que la señal positiva que se aplica a una entrada genera una tensión negativa en la salida y viceversa. 
 
 
 _____________________________________________________________________________________     
@@ -172,13 +189,7 @@ En esta tabla de datos encontramos datos importantes como el valor de la resiste
 Además de los valores de la resistencia de salida, que en este caso es 75 Ohm, que en un OpAmp ideal debería ser cero.
 
 
-# 7. Aportaciones o Recomendaciones
 
-•	Se recomienda realizar correctamente las conexiones en el Protoboard, asegurándose que las líneas de alimentación del OpAmp estén con la polaridad adecuada
-
-•	Se recomienda realizar las conexiones de los osciloscopios, teniendo en cuanta que se miden voltajes y se debe conectar en paralelo al elemento que estamos midiendo
-
-•	Además de esto se debe tener, en cuenta que, si los voltajes de retroalimentación son menores que el voltaje de ganancia, entonces va a existir una saturación. 
 _____________________________________________________________________________________     
 
 # 8. Conclusiones  
