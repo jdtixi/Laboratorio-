@@ -24,8 +24,51 @@
        
        
        
-       
-       
+_____________________________________________________________________________________      
+# 1. Objetivo General
+
+Desarrollar mediante la teoría y práctica, el principio de funcionamiento de un Amplificador Operacional de circuitos eléctricos, además, de comparar los resultados calculador con los datos resultantes del simulador. 
+
+_____________________________________________________________________________________      
+# 2. Objetivos Específicos 
+
+-	Distinguir cada una de las características de un Amplificador Operacional.
+-	Analizar la relevancia de un Amplificador Operacional en circuitos eléctricos.
+-	Identificar la particularidad de las entradas y la salida del dispositivo. 
+
+_____________________________________________________________________________________      
+# 3. Marco Teórico 
+
+Al llegar al desarrollo de los últimos temas del syllabus de este semestre, tenemos un conocimiento más amplio de conceptos básicos de modo que podemos empezar el análisis de temas más complejos como es el caso de este último laboratorio donde se analizara de manera practica y teórica el Amplificador Operacional en circuitos eléctricos. Además, es importante comprender el funcionamiento del Amplificador Operacional como de sus señales mediante las capturas realizadas a lo largo del procedimiento, tomando como ejemplo del circuito descrito en la guía N°9, a partir, del mismo se desarrollará el análisis matemático e ilustrativo para que este nuevo tema se pueda comprender en su totalidad.  
+
+Es importante que antes de continuar con la práctica en el simulador se pueda analizar y determinar la relación entre las señales de entrada y salida en cada uno de los circuitos que se indican en  la guía, lo cual implica reducir el tiempo de realización del proceso, incluso disminuir los recursos usados para el hallazgo de los resultados expuestos en el apartado de cálculos, también es importante demostrar simultáneamente las señales de entrada y salida en un osciloscopio, capturando las formas de onda para formular el análisis concluyente de las medidas tomadas con el simulador mejorando la comprensión del mismo. 
+
+
+*** Amplificador Operacional  ***
+
+El surgimiento del Amplificador Operacional también conocido como Op-Amp, debido a sus siglas en inglés (Operational Amplifier) data alrededor del año 1964, de manos del ingeniero electrónico estadounidense Robert John Widlar, quien también es un diseñador de circuitos integrados lineales (CI). Podemos nombrar al amplificador operacional como un dispositivo de alta ganancia acoplado en corriente continua que mantiene dos entradas y una salida, tal como mencionamos anteriormente, así, sabemos que generalmente la salida del dispositivo como tal es mil veces mayor a la diferencia de potencia entre las entradas. 
+
+Además, sabemos que tiene una entrada positiva y una negativa, por lo que, si la entrada positiva es superior en voltaje a la entrada negativa, la salida tiene a irse al voltaje de saturación. Un Amplificador Operacional puede esta alimentado por fuentes diferentes es decir uno de voltaje negativo y uno positivo o mediante fuentes simples como voltaje positivo y GND. Incluso es conveniente recordar que un Amplificador Operacional contiene diversas configuraciones, tal es el caso de: amplificador, no inversor, inversor y sumador. 
+
+(PRIMERA IMAGEN)
+
+En otras palabras, también podemos decir que los amplificadores operacionales son conocidos como dispositivos lineales de alta ganancia compactos activos ocupados para suministrar la función de transferencia deseada. En el caso de los amplificadores operacionales (A.O.) se componen de un circuito electrónico con una salida, que se obtienen mediante la diferencia de las dos entradas que tiene multiplicadas por el factor de ganancia en teoría la formula seria: 
+
+                                                 G .(V+ -V-)
+
+Una de las características de un Amplificador Operacional se expresa debido a su preparación en componente más genéricos, mostrado de modo que se puede acceder a los puntos digitales vitales donde se pueden interconectar los componentes externos que permiten al usuario cambiar la respuesta y transferencia del dispositivo. 
+
+
+*** Etapas de los Amplificadores Operacionales ***
+
+
+(SEGUNDA IMAGEN)
+
+Entonces de aquí recalcamos dos configuraciones del Amplificador Operacional importantes: Lazo Abierto y Lazo Cerrado.
+
+
+*** Configuración del Amplificador Operacional en lazo abierto ***
+
 
 # 4. Lista de componentes
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/168898803_279351633630880_1263561550144821975_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=5U1QO4ifvMUAX-ItNhD&_nc_ht=scontent.fuio1-1.fna&oh=77fee0d204c8445d4a5f0afab8205870&oe=609020CC)
