@@ -198,13 +198,13 @@ Además, debemos verificar que el circuito se encuentre correctamente expresado 
 
 
 -	No inversor
--	
+
 Configuración similar al amplificador operacional inversor.
 La tensión de entrada se aplica directamente al pin no inversor. 
 Se conecta a tierra el extremo del circuito.
 
 -	Inversor
--	
+
 La señal de entrada se aplica al pin invertido a través de un resistor. 
 El pin de carga positiva se conecta a tierra.
 La salida se alimenta de regreso a la entrada negativa o negativa mediante un resistor.
