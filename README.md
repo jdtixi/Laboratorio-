@@ -179,9 +179,21 @@ En la imagen, podemos observar las ondas de salida y de entrada del OpAmp, en el
 
 En común todos están adaptados para que la señal de entrada se amplíe y se invierta y que no se saturen con los voltajes de alimentación positivos y negativos.
 
+
 ### Preguntas
 
+
 Anote parámetros técnicos importantes de un amplificador operacional que deben será tomados en cuenta al momento de utilizarlos en un proyecto.
+
+
+
+
+
+Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+
+
+
+
 
 Cada elemento de un circuito eléctrico viene acompañado de si hoja técnica o datasheet, en el que encontramos todos los datos técnicos del elemento que vamos a usar, en este caso del OpAmp LM 741 tenemos:
 
@@ -196,6 +208,11 @@ Además de los valores de la resistencia de salida, que en este caso es 75 Ohm, 
 _____________________________________________________________________________________     
 
 # 8. Conclusiones  
+
+Al culminar la práctica N°9 de este semestre podemos visualizar no solo teóricamente, sino matemática y prácticamente el funcionamiento además de la aplicabilidad de un amplificador operacional en los circuitos eléctricos, lo que nos permite, mantener una infinidad de aplicaciones de las cuales solo abordamos unas cuantas en este informe según la necesidad del usuario para cada uno de los circuitos. Si algo podemos destacar de este laboratorio es que el Op-Amp mantiene un aumento o disminución de voltaje dependiendo de la señal de entrada o también un cambio de forma e inversión de la señal.  
+
+Además, el porcentaje de error presente en el laboratorio no es muy extenso, de modo, que concluimos que los resultados obtenidos y plasmados en este informe se consideran idóneos para las interpretaciones correspondientes. Sin embargo, es importante recalcar que la diferencia correspondiente se encuentra por el manejo de los decimales y la implementación del Op-Amp, pues una aplicación correcta muestra una respuesta idónea para el análisis de resultados en comparación al desperfecto que puede surgir en el circuito debido a su mall uso. 
+
 
 _____________________________________________________________________________________     
 
