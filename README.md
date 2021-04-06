@@ -77,7 +77,7 @@ Este es el circuito armado en LTspice
 Esta imagen nos provee de la señal de entrada y salida del OpAmp, claramente observamos que son las formas de onda esperadas, la onda de la señal de entrada es menor en amplitud que la de salida, además que la onda de salida esta invertida ya que estamos usando un amplificador inversor.
 
 
-**El segundo circuido **es conocido como un 
+**El segundo circuido ** es conocido como un 
 amplificador integrador
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/168829328_279351716964205_717026854129172407_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=6PCJA_JT3igAX89Bfhm&_nc_ht=scontent.fuio1-1.fna&oh=af73192afa05ddf2c1d775f35fd388d8&oe=6091786F)
@@ -95,7 +95,7 @@ El tercer circuito es un amplificador sumador, se le llama así porque el voltaj
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/169256863_279351726964204_6577480761288332558_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=730e14&_nc_ohc=PUt2OEmh3k0AX-aOu-R&_nc_ht=scontent.fuio1-1.fna&oh=ab26c5d5faedc8760559bec584c7e644&oe=608E12C7)
 
-Y su voltaje de salida se ña deduce sabiendo que la corriente que pasa por la resistencia de 1k Ohm es la suma de las corrientes que pasan por las resistencias de 300 y 200 Ohm, por tanto:
+Y su voltaje de salida se lo deduce sabiendo que la corriente que pasa por la resistencia de 1k Ohm es la suma de las corrientes que pasan por las resistencias de 300 y 200 Ohm, por tanto:
 
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/169141263_279351763630867_3498314226092977300_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=jsLAZ9kjYokAX9PxWtn&_nc_ht=scontent.fuio1-1.fna&oh=74de86678aa4758eac2729728ac79976&oe=608E01C8)
 
