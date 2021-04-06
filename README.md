@@ -201,4 +201,16 @@ ________________________________________________________________________________
 
 # 9. Bibliografía 
        
-       
+ACADENAS. (6 de Octubre de 2019). AMPLIFICADOR OPERACIONAL. AMPLIFICADOR OPERACIONAL: Lo que debes saber para empezar (Clase 60). Recuperado el 3 de Abril de 2021, de https://www.youtube.com/watch?v=-jNR4824ifo
+
+Electrónica FP. (2 de Mayo de 2016). Amplificador Operacional 1 - comparador. Amplificador Operacional. Recuperado el 5 de Abril de 2021, de https://www.youtube.com/watch?v=EbobLluwmP4
+
+KhanAcademyEspañol. (24 de Octubre de 2016). ¿Qué es un amplificador operacional? ¿Qué es un amplificador operacional? | Ingeniería eléctrica | Khan Academy en Español. Recuperado el 2 de Abril de 2021, de https://www.youtube.com/watch?v=V_T5xbaSTrE
+
+McAllister, W. (2017). ¿Qué es un amplificador operacional? Khan Academy. Recuperado el 4 de Abril de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp/v/ee-opamp-intro
+
+Jack E. Kemmerly, W. H. (2007). Análisis de Circuitos en Ingeniería. México: Mc. Graw Hill.
+
+Charles K. Alexander, M. N. (2006). : FUNDAMENTALS OF ELECTRIC CIRCUITS, THIRD EDITION. México: McGRAW-HILL/INTERAMERICANA EDITORES, S.A. DE C.V.
+
+
