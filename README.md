@@ -172,7 +172,13 @@ En esta tabla de datos encontramos datos importantes como el valor de la resiste
 Además de los valores de la resistencia de salida, que en este caso es 75 Ohm, que en un OpAmp ideal debería ser cero.
 
 
+# 7. Aportaciones o Recomendaciones
 
+•	Se recomienda realizar correctamente las conexiones en el Protoboard, asegurándose que las líneas de alimentación del OpAmp estén con la polaridad adecuada
+
+•	Se recomienda realizar las conexiones de los osciloscopios, teniendo en cuanta que se miden voltajes y se debe conectar en paralelo al elemento que estamos midiendo
+
+•	Además de esto se debe tener, en cuenta que, si los voltajes de retroalimentación son menores que el voltaje de ganancia, entonces va a existir una saturación. 
 _____________________________________________________________________________________     
 
 # 8. Conclusiones  
