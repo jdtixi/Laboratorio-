@@ -30,8 +30,8 @@
 # 4. Lista de componentes
 ![](https://scontent.fuio1-1.fna.fbcdn.net/v/t1.6435-9/168898803_279351633630880_1263561550144821975_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=5U1QO4ifvMUAX-ItNhD&_nc_ht=scontent.fuio1-1.fna&oh=77fee0d204c8445d4a5f0afab8205870&oe=609020CC)
 
-#5. Explicación
 
+# 5. Explicación
 En esta práctica nos centramos en el armado de circuitos con amplificadores operacionales, los cuales se diseñan de tal forma que, la llamada resistencia de feedback sea mayor que la resistencia o las resistencias de estradas, caso contrario tendríamos un atenuador. 
 
 El primer circuito que se arma en esta práctica es un amplificador inversor, el cual está dispuesto de tal forma que aumenta la amplitud de la onda de entrada y la invierte.
