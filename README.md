@@ -85,7 +85,7 @@ También se debe tomar en cuenta que, al aplicar una señal de entrada en nuestr
 Para entender la configuración del amplificador operacional en lazo cerrado decimos que mediante su uso se reduce notablemente la ganancia del dispositivo porque estaba determinada por la red de realimentación y no por las características que mantiene el dispositivo en cuestión. 
 
 La ganancia se obtiene mediante la siguiente fórmula:  
-                                                                              Av = - Vo/Vin
+                                                           Av = - Vo/Vin
                                                                                        
 Sabiendo que el signo negativo indica que la señal en la salida va ha ser opuesta a la que se encuentra en la entrada, entonces decimos que se comprueba que la señal positiva que se aplica a una entrada genera una tensión negativa en la salida y viceversa. 
 
